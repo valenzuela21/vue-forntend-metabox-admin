@@ -47,7 +47,8 @@ All your Vue.js code will be in `src-js` folder. You can create multiple entry p
 ```javascript
 entry: {
   'simple-example': './src-js/simple-example.js',
-  'components-example': './src-js/components-example.js'
+  'components-example': './src-js/components-example.js',
+  'admin-example': './src-js/admin-example.js'
 },
 ```
 
