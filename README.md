@@ -1,4 +1,4 @@
-# WordPress and Vue.js plugin boilerplate
+# WordPress and Vue.js plugin Basic Essential
 
 Plugin Basic integrate Vue.js in selected pages. It's not intended for a headless WordPress.
 
