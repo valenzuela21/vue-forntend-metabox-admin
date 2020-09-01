@@ -1,6 +1,6 @@
 # WordPress and Vue.js plugin Basic Essential
 
-Plugin Basic integrate Vue.js in selected pages. It's not intended for a headless WordPress.
+Plugin Basic integrate Vue.js in selected pages and admin metaboxes. It's not intended for a headless WordPress.
 
 ## Features
 
