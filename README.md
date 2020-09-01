@@ -4,7 +4,7 @@ Plugin Basic integrate Vue.js in selected pages and admin metaboxes. It's not in
 
 ## Features
 
-- Shortcode examples that illustrate how to integrate Vue.js in your pages
+- Shortcode examples that illustrate how to integrate Vue.js in your pages and metaboxes woocommerce
 - Auto reload browser with Browsersync
 - SCSS ready
 - Code spliting
