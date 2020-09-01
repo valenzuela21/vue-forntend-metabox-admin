@@ -1,6 +1,6 @@
 # WordPress and Vue.js plugin boilerplate
 
-Boilerplate to create a plugin that integrate Vue.js in selected pages. It's not intended for a headless WordPress.
+Plugin Basic integrate Vue.js in selected pages. It's not intended for a headless WordPress.
 
 ## Features
 
